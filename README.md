@@ -9,7 +9,9 @@ My comprehensive approach has allowed me to lead projects from planning to imple
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [juansefdz.com](http://www.juansefdz.com)
 * ✉️  You can contact me at [juanse.fermon@gmail.com](mailto:juanse.fermon@gmail.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning Javascript in riwi <a href="https://riwi.io/" target="_blank" rel="noreferrer"><img
+src="https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png" /></a> 
+  
 
 <a href="https://www.github.com/juansefdz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/juansefdz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
