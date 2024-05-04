@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 My name is Juan Sebastián Fernández Montoya<br>a passionate Backend developer with experience in Python, HTML, CSS, and JavaScript and Java.<br>My comprehensive approach has allowed me to lead projects from planning to implementation, standing out for the creation of innovative solutions.<br><br>🌍 I'm based in Colombia<br>🖥️ See my portfolio at [juansefdz.com](https://juansefdz.com/)<br>✉️ You can contact me at juanse.fermon@gmail.com<br>🧠 I'm learning Java in riwi 
+Hi 👋 My name is Juan Sebastián Fernández Montoya<br>a passionate Backend developer with experience in Python, HTML, CSS, and JavaScript, Java - Springboot.<br>My comprehensive approach has allowed me to lead projects from planning to implementation, standing out for the creation of innovative solutions.<br><br>🌍 I'm based in Colombia<br>🖥️ See my portfolio at [juansefdz.com](https://juansefdz.com/)<br>✉️ You can contact me at juanse.fermon@gmail.com<br>🧠 I'm learning Springboot in riwi 
 
 
 # 💻 Tech Stack:
