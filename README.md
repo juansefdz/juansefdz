@@ -5,7 +5,7 @@ Hi 👋"I am a passionate Software Developer with experience in Java (Spring Boo
 
 
 
-# 💻 **Tech Stack:**
+# 💻 Tech Stack:
 
 
 <p align="center">
@@ -13,7 +13,11 @@ Hi 👋"I am a passionate Software Developer with experience in Java (Spring Boo
     <img src="https://skillicons.dev/icons?i=java,spring,js,jquery,html,css,laravel,bootstrap,mysql,py,docker,git,bash,md" />
   </a>
 </p>
-# 🔧 **Tech Tools:**
+
+
+# 🔧 Tech Tools:
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=j,discord,notion,linkedin,postman,idea,github,vscode" />
