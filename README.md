@@ -38,6 +38,6 @@ Hi 👋"I am a passionate Software Developer with experience in Java (Spring Boo
 
 ![](https://github-profile-trophy.vercel.app/?username=juansefdz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-	  ---
-[![](https://visitcount.itsvg.in/api?id=juansefdz&icon=2&color=6)](https://visitcount.itsvg.in)
+	
+![](https://visitcount.itsvg.in/api?id=juansefdz&icon=2&color=6)](https://visitcount.itsvg.in)
 
