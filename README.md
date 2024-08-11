@@ -10,7 +10,7 @@ Hi 👋"I am a passionate Software Developer with experience in Java (Spring Boo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,bootstrap,mysql,py,docker,git,bash,md" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,sass,bootstrap,vue,mysql,py,docker,git,bash,md" />
   </a>
 </p>
 
